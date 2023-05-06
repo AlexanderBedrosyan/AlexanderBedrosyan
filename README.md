@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AlexanderBedrosyan
+- 👀 I’m interested in programming, accounting, finance and math
+- 🌱 I’m currently learning Python Fundamentals.
+- 📫 How to reach me - Linked in: https://www.linkedin.com/in/alexander-bedrosyan-02380aa7/
