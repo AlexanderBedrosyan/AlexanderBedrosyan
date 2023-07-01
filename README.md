@@ -6,3 +6,6 @@
 </p>
 <p></p><p></p>
 <img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexanderBedrosyan&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
+<p><img height="160em" img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderbedrosyan&" alt="alexanderbedrosyan" /></p>
+
+<p>
