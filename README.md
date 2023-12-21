@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderBedrosyan
 - 👀 I’m interested in programming, accounting, finance and math
-- 🌱 I’m currently learning Python Advanced and OOP.
+- 🌱 I’m currently learning JavaScript Front-End.
 - 📫 How to reach me - Linked in: https://www.linkedin.com/in/alexander-bedrosyan-02380aa7/
 - ⚡ My youtube channel - https://www.youtube.com/channel/UCMfx0el0zdoYf2r9MXwiBhg
 
