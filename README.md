@@ -2,7 +2,8 @@
 - 👀 I’m interested in programming, accounting, finance and math
 - 🌱 I’m currently learning JavaScript Front-End.
 - 📫 How to reach me - Linked in: https://www.linkedin.com/in/alexander-bedrosyan-02380aa7/
-- ⚡ My youtube channel - https://www.youtube.com/channel/UCMfx0el0zdoYf2r9MXwiBhg
+- 📺 My youtube channel - https://www.youtube.com/channel/UCMfx0el0zdoYf2r9MXwiBhg
+- 📂 Portfolio - https://alexander1926.pythonanywhere.com/
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
