@@ -20,6 +20,9 @@
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" width="40" height="40"/>
 </a>
 
+</p><img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexanderBedrosyan&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
+<p><img height="160em" img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderbedrosyan&" alt="alexanderbedrosyan" /></p>
+
 <p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexanderbedrosyan&label=Profile%20views&color=0e75b6&style=flat" alt=" alexanderbedrosyan " /> </p>
 
