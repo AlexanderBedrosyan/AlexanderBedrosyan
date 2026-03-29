@@ -19,6 +19,7 @@
 <a href="https://learn.microsoft.com/en-us/power-automate/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Power BI" width="40" height="40"/>
 </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/php-6.svg" alt="php" width="40" height="40"/> </a>
 
 </p>
 <img height="160em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlexanderBedrosyan&show_icons=true&bg_color=00000000&hide_border=true&text_color=3498db&&count_private=true" />
